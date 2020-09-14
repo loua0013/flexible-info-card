@@ -13,6 +13,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #ccc;
 }
 
 section{
@@ -37,6 +38,7 @@ li {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+  padding: 1rem;
  }
 
 ul {
