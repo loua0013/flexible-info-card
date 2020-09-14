@@ -18,11 +18,13 @@ body {
 
 section{
   margin: 1.5rem;
+  margin-top: 0;
 }
 
 h2 {
   text-align: center;
-  margin-top: 2rem;
+  padding-top: 2rem;
+  margin-top: 0;
  }
 
  h3 {
@@ -58,6 +60,7 @@ ul li {
 
 hgroup {
   width: 16rem;
+  padding: 1rem;
 }
 
 img {
@@ -71,4 +74,5 @@ a {
   text-decoration: none;
   font-weight: normal;
   text-align: center;
+  margin-left: 2rem;
 }
