@@ -16,7 +16,7 @@ body {
   background-color: #ccc;
 }
 
-section{
+section {
   margin: 1.5rem;
   margin-top: 0;
 }
@@ -25,15 +25,15 @@ h2 {
   text-align: center;
   padding-top: 2rem;
   margin-top: 0;
- }
+}
 
- h3 {
-   margin: 0;
- }
+h3 {
+  margin: 0;
+}
 
- h4 {
-   margin: 0;
- }
+h4 {
+  margin: 0;
+}
 
 li {
   display: flex;
@@ -41,7 +41,7 @@ li {
   align-items: center;
   justify-content: space-between;
   padding: 1rem;
- }
+}
 
 ul {
   margin: 0;
